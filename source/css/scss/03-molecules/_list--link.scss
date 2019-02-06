@@ -1,0 +1,39 @@
+.list--unordered--link {
+  ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin: 0;
+    li {
+      margin-right: 16px;
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+  }
+}
+
+.list--unordered--link__item {
+  color: $mc--med;
+  transition: $tr--s;
+  text-decoration: none;
+  position: relative;
+  padding-bottom: 2px;
+  &::after {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0%;
+    height: 1px;
+    background-color: darken($mc--med, 25%);
+    transition: $tr--s;
+  }
+  &:hover {
+    color: darken($mc--med, 25%);
+    &::after {
+      width: 100%;
+    }
+  }
+}

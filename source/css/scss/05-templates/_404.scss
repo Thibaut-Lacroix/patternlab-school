@@ -1,0 +1,11 @@
+.wrapper--main {
+  background-color: $nc--75;
+  width: 100%;
+  min-height: 100%;
+}
+
+@media (min-width: 768px) {
+  .wrapper--main {
+    min-height: calc(100vh - 110px);
+  }
+}
