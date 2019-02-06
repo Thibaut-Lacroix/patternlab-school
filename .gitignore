@@ -1,6 +1,7 @@
 node_modules/
 .DS_Store
 patternlab.json
+package-lock.json
 .sass-cache/*
 /sass-cache
 Thumbs.db
