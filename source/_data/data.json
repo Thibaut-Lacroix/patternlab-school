@@ -1,3 +1,84 @@
 {
-
+  "loopFestival" : [
+    {
+      "loopBand" : [
+        {
+          "band-name" : "Pink Floyd",
+          "loopMusician" : [
+            {
+              "people" : "David Gilmour",
+              "instrument" : "Guitare, chant"
+            },
+            {
+              "people" : "Syd Barrett",
+              "instrument" : "Guitare, chant"
+            },
+            {
+              "people" : "Nick Mason",
+              "instrument" : "Batterie"
+            },
+            {
+              "people" : "Richard Wright",
+              "instrument" : "Clavier, chant"
+            },
+            {
+              "people" : "Roger Walters",
+              "instrument" : "Basse, chant"
+            }
+          ]
+        },
+        {
+          "band-name" : "Pink Floyd",
+          "addClass" : "important",
+          "loopMusician" : [
+            {
+              "people" : "David Gilmour",
+              "instrument" : "Guitare, chant"
+            },
+            {
+              "people" : "Syd Barrett",
+              "instrument" : "Guitare, chant"
+            },
+            {
+              "people" : "Nick Mason",
+              "instrument" : "Batterie"
+            },
+            {
+              "people" : "Richard Wright",
+              "instrument" : "Clavier, chant"
+            },
+            {
+              "people" : "Roger Walters",
+              "instrument" : "Basse, chant"
+            }
+          ]
+        },
+        {
+          "band-name" : "Pink Floyd",
+          "loopMusician" : [
+            {
+              "people" : "David Gilmour",
+              "instrument" : "Guitare, chant"
+            },
+            {
+              "people" : "Syd Barrett",
+              "instrument" : "Guitare, chant"
+            },
+            {
+              "people" : "Nick Mason",
+              "instrument" : "Batterie"
+            },
+            {
+              "people" : "Richard Wright",
+              "instrument" : "Clavier, chant"
+            },
+            {
+              "people" : "Roger Walters",
+              "instrument" : "Basse, chant"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
