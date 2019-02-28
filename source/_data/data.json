@@ -1,4 +1,5 @@
 {
+  "festival-name" : "Woodstock",
   "loopFestival" : [
     {
       "loopBand" : [
@@ -28,24 +29,49 @@
           ]
         },
         {
-          "band-name" : "Pink Floyd",
+          "band-name" : "Guns N' Roses",
           "addClass" : "important",
           "loopMusician" : [
             {
-              "people" : "David Gilmour",
-              "instrument" : "Guitare, chant"
+              "people" : "Axl Rose",
+              "instrument" : "Chant"
             },
             {
-              "people" : "Syd Barrett",
-              "instrument" : "Guitare, chant"
+              "people" : "Dizzy Reed",
+              "instrument" : "Claviers"
             },
             {
-              "people" : "Nick Mason",
+              "people" : "Duff McKagan",
+              "instrument" : "Basse"
+            },
+            {
+              "people" : "Izzy Stradin",
+              "instrument" : "Guitare Rythmique"
+            },
+            {
+              "people" : "Steven Adler",
               "instrument" : "Batterie"
+            }
+          ]
+        },
+        {
+          "band-name" : "Led Zeppelin",
+          "loopMusician" : [
+            {
+              "people" : "Jimmy Page",
+              "instrument" : "Guitare"
             },
             {
-              "people" : "Richard Wright",
-              "instrument" : "Clavier, chant"
+              "people" : "Robert Plant",
+              "instrument" : "Chant"
+            },
+            {
+              "people" : "John Paul Jones",
+              "instrument" : "Basse, claviers"
+            },
+            {
+              "people" : "John Bonham",
+              "instrument" : "Batterie"
             },
             {
               "people" : "Roger Walters",
@@ -54,27 +80,27 @@
           ]
         },
         {
-          "band-name" : "Pink Floyd",
+          "band-name" : "The Animals",
           "loopMusician" : [
             {
-              "people" : "David Gilmour",
-              "instrument" : "Guitare, chant"
+              "people" : "Eric Burdon",
+              "instrument" : "Chant"
             },
             {
-              "people" : "Syd Barrett",
-              "instrument" : "Guitare, chant"
+              "people" : "Hilton Valentine",
+              "instrument" : "Guitare"
             },
             {
-              "people" : "Nick Mason",
+              "people" : "Alan Price",
+              "instrument" : "Claviers"
+            },
+            {
+              "people" : "Chas Chandler",
+              "instrument" : "Basse"
+            },
+            {
+              "people" : "John Steel",
               "instrument" : "Batterie"
-            },
-            {
-              "people" : "Richard Wright",
-              "instrument" : "Clavier, chant"
-            },
-            {
-              "people" : "Roger Walters",
-              "instrument" : "Basse, chant"
             }
           ]
         }
