@@ -42,7 +42,7 @@ p {
 }
 
 .band__title {
-  font-size:2rem;
+  font-size:1.5rem;
   font-weight: bold;
   margin: 0 0 1rem 0;
   border-bottom: 1px solid $nc--50;
@@ -60,10 +60,24 @@ p {
   flex-direction: column;
 }
 
+.festival__name {
+  font-size:2rem;
+  font-weight: bold;
+  margin: 0 0 1rem 0;
+  display: block;
+  width: 100%;
+  text-align: center;
+  color: $nc--00;
+  background-color: $nc--100;
+}
+
 @media (min-width: 480px) {
   .festival {
     flex-direction: row;
     flex-wrap: wrap;
+    &__name {
+      font-size:5vw;
+    }
     .band {
       width: calc(50% - 1rem);
     }
@@ -73,5 +87,11 @@ p {
 @media (min-width: 720px) {
   .festival .band {
     width: calc(33% - 1rem);
+  }
+}
+
+@media (min-width: 980px) {
+  .festival .band {
+    width: calc(25% - 1rem);
   }
 }
