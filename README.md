@@ -1,4 +1,4 @@
-# B4I-application-patterns
+# Patternlab School
 
 ## installation
 
