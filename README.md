@@ -3,27 +3,20 @@
 ## Config
 
 **Check Node**
-`node --v`
+`node -v`
 If Node missing -> https://nodejs.org/en/
 
 **Check Npm**
-`npm --v`
+`npm -v`
 If Npm missing -> https://nodejs.org/en/
 
 **Check Gulp**
-`Gulp --v`
+`Gulp -v`
 If Gulp missing -> https://gulpjs.com/
 
 ## installation
 
-**Install**
-`npm install` or `npm i`
-
-**Build**
-`gulp patternlab:build`
-
-**Watch tasks**
-`gulp patternlab:serve`
-
-
-
+1. Open the shell
+2. Go to the folder location `cd`
+3. `npm install` or `npm i`
+4. `gulp patternlab:serve`
