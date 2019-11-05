@@ -17,7 +17,9 @@ If Gulp missing -> https://gulpjs.com/
 ## installation
 
 **Install**
-`npm install` or `npm i`
+1. Open the shell
+2. Go to the folder location `cd`
+3. `npm install` or `npm i`
 
 **Build**
 `gulp patternlab:build`
