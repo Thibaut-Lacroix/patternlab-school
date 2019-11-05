@@ -1,0 +1,20 @@
+{
+  "headingLoop" : [
+    {
+      "hdg" : "h1",
+      "heading-content" : "I'm a H1"
+    },
+    {
+      "hdg" : "h2",
+      "heading-content" : "I'm a H2"
+    },
+    {
+      "hdg" : "h3",
+      "heading-content" : "I'm a H3"
+    },
+    {
+      "hdg" : "h4",
+      "heading-content" : "I'm a H4"
+    }
+  ]
+}
