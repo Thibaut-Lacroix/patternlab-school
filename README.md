@@ -3,15 +3,15 @@
 ## Config
 
 **Check Node**
-`node --v`
+`node -v`
 If Node missing -> https://nodejs.org/en/
 
 **Check Npm**
-`npm --v`
+`npm -v`
 If Npm missing -> https://nodejs.org/en/
 
 **Check Gulp**
-`Gulp --v`
+`Gulp -v`
 If Gulp missing -> https://gulpjs.com/
 
 ## installation
