@@ -1,0 +1,146 @@
+{
+  "headingLoop" : [
+    {
+      "hdg" : "h1",
+      "heading-content" : "I'm a H1"
+    }
+  ],
+  "blockMediaLoop" : [
+    {
+      "url" : "#",
+      "addClass" : "",
+      "url-image" : "../../images/square/200x200.jpg",
+      "alt-image" : "image placeholder 200x200",
+      "headingLoop" : [
+        {
+          "hdg" : "h2",
+          "heading-content" : "I'm a H2"
+        }
+      ],
+      "paragraph-content" : "I'm a long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long paragraph"
+    },
+    {
+      "url" : "#",
+      "addClass" : "",
+      "url-image" : "../../images/square/200x200.jpg",
+      "alt-image" : "image placeholder 200x200",
+      "headingLoop" : [
+        {
+          "hdg" : "h2",
+          "heading-content" : "I'm a H2"
+        }
+      ],
+      "paragraph-content" : "I'm a long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long paragraph"
+    },
+    {
+      "url" : "#",
+      "addClass" : "",
+      "url-image" : "../../images/square/200x200.jpg",
+      "alt-image" : "image placeholder 200x200",
+      "headingLoop" : [
+        {
+          "hdg" : "h2",
+          "heading-content" : "I'm a H2"
+        }
+      ],
+      "paragraph-content" : "I'm a long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long paragraph"
+    },
+    {
+      "url" : "#",
+      "addClass" : "",
+      "url-image" : "../../images/square/200x200.jpg",
+      "alt-image" : "image placeholder 200x200",
+      "headingLoop" : [
+        {
+          "hdg" : "h2",
+          "heading-content" : "I'm a H2"
+        }
+      ],
+      "paragraph-content" : "I'm a long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long paragraph"
+    },
+    {
+      "url" : "#",
+      "addClass" : "",
+      "url-image" : "../../images/square/200x200.jpg",
+      "alt-image" : "image placeholder 200x200",
+      "headingLoop" : [
+        {
+          "hdg" : "h2",
+          "heading-content" : "I'm a H2"
+        }
+      ],
+      "paragraph-content" : "I'm a long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long paragraph"
+    }
+  ],
+  "asideBlog" : [
+    {
+      "blockMediaLoop" : [
+        {
+          "url" : "#",
+          "addClass" : "block-media--s",
+          "url-image" : "../../images/square/200x200.jpg",
+          "alt-image" : "image placeholder 200x200",
+          "headingLoop" : [
+            {
+              "hdg" : "h3",
+              "heading-content" : "I'm a h3"
+            }
+          ],
+          "paragraph-content" : "I'm a short paragraph"
+        },
+        {
+          "url" : "#",
+          "addClass" : "block-media--s",
+          "url-image" : "../../images/square/200x200.jpg",
+          "alt-image" : "image placeholder 200x200",
+          "headingLoop" : [
+            {
+              "hdg" : "h3",
+              "heading-content" : "I'm a h3"
+            }
+          ],
+          "paragraph-content" : "I'm a short paragraph"
+        },
+        {
+          "url" : "#",
+          "addClass" : "block-media--s",
+          "url-image" : "../../images/square/200x200.jpg",
+          "alt-image" : "image placeholder 200x200",
+          "headingLoop" : [
+            {
+              "hdg" : "h3",
+              "heading-content" : "I'm a h3"
+            }
+          ],
+          "paragraph-content" : "I'm a short paragraph"
+        },
+        {
+          "url" : "#",
+          "addClass" : "block-media--s",
+          "url-image" : "../../images/square/200x200.jpg",
+          "alt-image" : "image placeholder 200x200",
+          "headingLoop" : [
+            {
+              "hdg" : "h3",
+              "heading-content" : "I'm a h3"
+            }
+          ],
+          "paragraph-content" : "I'm a short paragraph"
+        },
+        {
+          "url" : "#",
+          "addClass" : "block-media--s",
+          "url-image" : "../../images/square/200x200.jpg",
+          "alt-image" : "image placeholder 200x200",
+          "headingLoop" : [
+            {
+              "hdg" : "h3",
+              "heading-content" : "I'm a h3"
+            }
+          ],
+          "paragraph-content" : "I'm a short paragraph"
+        }
+      ]
+    }
+  ]
+}
