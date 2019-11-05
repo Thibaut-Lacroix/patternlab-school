@@ -1,0 +1,30 @@
+{
+  "blockMediaLoop" : [
+    {
+      "url" : "#",
+      "addClass" : "",
+      "url-image" : "../../images/square/200x200.jpg",
+      "alt-image" : "image placeholder 200x200",
+      "headingLoop" : [
+        {
+          "hdg" : "h2",
+          "heading-content" : "I'm a H2"
+        }
+      ],
+      "paragraph-content" : "I'm a long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long paragraph"
+    },
+    {
+      "url" : "#",
+      "addClass" : "block-media--s",
+      "url-image" : "../../images/square/200x200.jpg",
+      "alt-image" : "image placeholder 200x200",
+      "headingLoop" : [
+        {
+          "hdg" : "h2",
+          "heading-content" : "I'm a H2"
+        }
+      ],
+      "paragraph-content" : "I'm a long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long paragraph"
+    }
+  ]
+}
