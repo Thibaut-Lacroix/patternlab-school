@@ -1,0 +1,48 @@
+////// Block Media //////
+.block-media {
+  cursor: pointer;
+  text-decoration: none;
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 24px;
+  .img--square {
+    border-radius: 8px;
+  }
+  .block-media__content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+    color: $nc--100;
+    h2 {
+      margin: 0;
+      color: $nc--100;
+    }
+  }
+}
+
+// Hover state
+.block-media:hover {
+  .img--square {
+    transition: $tr--m;
+    border-radius: 100%;
+  }
+  .block-media__content {
+    transition: $tr--m;
+    color: $mc--med;
+    h2 {
+      color: $mc--med;
+    }
+  }
+}
+
+// Size S
+.block-media--s {
+  margin-bottom: 16px;
+  .img--square {
+    width: 100px;
+    height: 100px;
+  }
+  .block-media__content {
+    margin-left: 8px;
+  }
+}
