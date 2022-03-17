@@ -10,13 +10,15 @@ If Node missing -> https://nodejs.org/en/
 `npm -v`
 If Npm missing -> https://nodejs.org/en/
 
-**Check Gulp**
-`Gulp -v`
-If Gulp missing -> https://gulpjs.com/
+**Check NVM**
+`nvm --version`
+If NVM missing -> https://github.com/nvm-sh/nvm#installing-and-updating
+And install project's node version `nvm i 14.19.0`
 
 ## installation
 
 1. Open the shell
 2. Go to the folder location `cd`
-3. `npm install` or `npm i`
-4. `gulp patternlab:serve`
+3. `nvm use`
+4. `npm install` or `npm i`
+5. `npm run dev`
